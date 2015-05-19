@@ -4,8 +4,8 @@ from scrapy.contrib.spiders import CrawlSpider, Rule
 from scrapy.contrib.linkextractors import LinkExtractor
 from scrapy.http import Request
 
-from src.items import Part
-from src.utils import get_from_xpath
+from auto_parker.items import Part
+from auto_parker.utils import get_from_xpath
 
 
 class ExistSpider(CrawlSpider):
