@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import re
 
 from scrapy.contrib.spiders import CrawlSpider, Rule
