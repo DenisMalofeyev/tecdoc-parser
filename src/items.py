@@ -2,7 +2,8 @@ import scrapy
 
 
 class Part(scrapy.Item):
-    mech_type = scrapy.Field()
-    mech_brand = scrapy.Field()
-    mech_mark = scrapy.Field()
-    mech_modification = scrapy.Field()
+    part_type = scrapy.Field()
+    part_brand = scrapy.Field()
+    part_art = scrapy.Field()
+
+    vehicle_brand = scrapy.Field()
