@@ -97,10 +97,3 @@ class ExistSpider(CrawlSpider):
                 parts.append(part)
 
             return parts
-
-
-
-
-
-
-
