@@ -120,4 +120,3 @@ class ExistSpider(CrawlSpider):
         )
         request.meta['part'] = part
         return request
-
