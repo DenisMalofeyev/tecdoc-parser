@@ -1,2 +1,2 @@
-# exist.ru-scraper
-exist.ru scraper based on Python framework Scrapy
+# auto-parker
+Russian auto themed sites scraper based on Python framework Scrapy
